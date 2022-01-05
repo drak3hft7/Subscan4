@@ -32,9 +32,9 @@ sudo ./setup.sh
 cd /tmp && git clone https://github.com/drak3hft7/Subscan4 
 sudo ./Subscan4.sh -h
 ```
-- Use `--help` or `-h` to display the help menu.
-- Use `--domain` or `-d` to set up the domain.
-- Use `--output` or `-o` to set the directory.
+- `--help` or `-h` to display the help menu.
+- `--domain` or `-d` to set up the domain.
+- `--output` or `-o` to set the directory.
 
 ![Screen_Subscan02](Images/Screen_Subscan02.PNG 'Example')
 
