@@ -6,4 +6,7 @@
  ___/ / /_/ / /_/ (__  ) /__/ /_/ / / / /__  __/
 /____/\__,_/_.___/____/\___/\__,_/_/ /_/  /_/-v1.0-drak3hft7
 ```
+
+Last update: **05 Jan 2022**
+
 Script that performs a scan of a specific domain, using the following tools: Subfinder, assetfinder, amass and httpx. The result is merged into one file. 
