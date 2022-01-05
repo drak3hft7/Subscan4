@@ -21,6 +21,7 @@ The script (with httpx) analyzes the subdomains found and checks the possible ac
 Once the search is finished, the result is compared and saved in a single file called all_live_subdomains-DOMAIN.txt.
 
 ## Setup:
+This setup script will install Golang, Subfinder, Assetfinder, Amass and httpx on your vps.
 ```bash
 cd /tmp && git clone https://github.com/drak3hft7/Subscan4 
 sudo ./setup.sh
