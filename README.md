@@ -19,3 +19,15 @@ The script (with httpx) analyzes the subdomains found and checks the possible ac
 - 80, 8000, 8080, 443, 8443, 4443, 4433. 
 
 Once the search is finished, the result is compared and saved in a single file called all_live_subdomains-DOMAIN.txt.
+
+## Setup:
+```bash
+cd /tmp && git clone https://github.com/drak3hft7/Subscan4 
+sudo ./setup.sh
+```
+
+## Usage:
+```bash
+cd /tmp && git clone https://github.com/drak3hft7/Subscan4 
+sudo ./Subscan4.sh -h
+```
