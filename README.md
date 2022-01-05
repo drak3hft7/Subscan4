@@ -32,3 +32,4 @@ sudo ./setup.sh
 cd /tmp && git clone https://github.com/drak3hft7/Subscan4 
 sudo ./Subscan4.sh -h
 ```
+Use ```bash --help``` or ```bash -h``` for a brief help menu.
