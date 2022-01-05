@@ -34,4 +34,4 @@ sudo ./Subscan4.sh -h
 ```
 Use `--help` or `-h` to display the help menu.
 
-![Screen_Subscan02](images/Screen_Subscan02.PNG 'Example')
+![Screen_Subscan02](Images/Screen_Subscan02.PNG 'Example')
