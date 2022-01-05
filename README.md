@@ -33,4 +33,5 @@ cd /tmp && git clone https://github.com/drak3hft7/Subscan4
 sudo ./Subscan4.sh -h
 ```
 Use `--help` or `-h` to display the help menu.
-![Main Logo](images/Screen_Subscan02.PNG 'Example')
+
+![Screen_Subscan02](images/Screen_Subscan02.PNG 'Example')
