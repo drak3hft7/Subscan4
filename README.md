@@ -35,3 +35,10 @@ sudo ./Subscan4.sh -h
 Use `--help` or `-h` to display the help menu.
 
 ![Screen_Subscan02](Images/Screen_Subscan02.PNG 'Example')
+
+### Example:
+```bash
+./Subscan4.sh -d domain.com -o /domain
+```
+
+![Screen_Subscan](Images/Screen_Subscan.PNG 'Example1')
