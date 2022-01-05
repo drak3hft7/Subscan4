@@ -17,4 +17,5 @@ Script that performs a scan of a specific domain, using the following tools:
 
 The script (with httpx) analyzes the subdomains found and checks the possible active web servers, on the ports: 
 - 80, 8000, 8080, 443, 8443, 4443, 4433. 
-Once the search is finished, the result is compared and saved in a single file called all_live_subdomains-DOMAIN.txt
+
+Once the search is finished, the result is compared and saved in a single file called all_live_subdomains-DOMAIN.txt.
