@@ -9,7 +9,7 @@
 
 Last update: **05 Jan 2022**
 
-Script that performs a scan of a specific domain, using the following tools: 
+This bash script is meant to be used during the Bug Bounty. It scans a specific domain, using the following tools:
 - [Subfinder](https://github.com/projectdiscovery/subfinder/)
 - [Assetfinder](https://github.com/tomnomnom/assetfinder)
 - [Amass](https://github.com/OWASP/Amass)
